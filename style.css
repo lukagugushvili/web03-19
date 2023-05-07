@@ -117,7 +117,7 @@ header {
 .sliders-horizontal:hover + .hover-box-model {
     opacity: 1;
     height: 557px;
-    transition: all 0.5s 0.3s ease;
+    transition: all 0.5s 0.5s linear;
 }
 
 .hover-box-model h4 {
